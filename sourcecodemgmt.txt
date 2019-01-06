@@ -1,0 +1,9 @@
+1. Files or codes are locally stored ( laptop or server)
+2. There is a possibility of server failure or laptop crash. SO code might be lost
+3. Backup has been created in another hard disk so that code will be backedup.
+4. But Projects eveolved and now-a-days 100's of developers are coding in the same line ( code ).
+5. So saving the coses in local system is not vaible.
+6. So comes a field called SOURCE CODE MGMT.
+  
+7.   CENTRAL SERVER ------> code fetch--->VCS ( version control system ) -----> CVS
+
