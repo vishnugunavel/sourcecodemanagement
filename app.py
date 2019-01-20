@@ -13,7 +13,7 @@ def help():
 def hello():
     return "Hello how are you? what i can do for you?"
 
-@app.route("/test)
+@app.route("/test")
 def test():
     return "test route"
 
