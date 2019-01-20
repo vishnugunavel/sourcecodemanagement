@@ -15,7 +15,7 @@ def hello():
 
 @app.route("/test")
 def test():
-    user = {'username': 'Racky'}
+    user = {'username': 'Racky.ty'}
     posts = [
         {
             'author': {'username': 'John'},
